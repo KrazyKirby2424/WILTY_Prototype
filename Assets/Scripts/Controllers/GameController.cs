@@ -330,6 +330,7 @@ public class GameController : MonoBehaviour
         l.Add("I've never gotten a speeding ticket.");
         l.Add("I still sleep with the stuffed teddy bear I was given as a kid.");
         l.Add("I am deathly afraid of clowns.");
+        //l.Add("");
         return l;
     }
 }
